@@ -16,4 +16,4 @@ We calculated its speed, and determined if the car stopped. If it didn't, we wou
 
 Then we served it to a webpage using Flask.
 
-We learned a lot about detecting the speed of a moving object, as well as how to use Flask to serve specific information. Finding an alternative to HAAR cascades was also a highlight :)
+We learned a lot about detecting the speed of a moving object from it's bounding box, as well as how to use Flask to serve specific information. Finding an alternative to HAAR cascades was also a highlight :)
